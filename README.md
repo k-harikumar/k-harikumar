@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Krishnan Harikumar 👋
+
+PhD candidate at the **QUT Centre for Robotics**, Queensland University of Technology.
+
+I work on **LiDAR-grounded Gaussian Splatting**: building compact, geometrically accurate
+3D reconstructions from LiDAR and images, for mapping and digital twins.
+
+### 🔬 Research interests
+- Gaussian Splatting & neural rendering
+- LiDAR-based 3D reconstruction
+- Gaussian mixture models for 3D scene representation
+- 3D mapping and scene change detection
 
 <!--
-**k-harikumar/k-harikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📄 Publications
+- **PLS-GS: Probabilistic LiDAR Scaffolds for Gaussian Splatting**
+  Krishnan Harikumar, Alejandro Fontan, Thierry Peynot, Emili Hernández, Niko Sünderhauf
+  *WACV 2027* · [Paper](ARXIV_LINK) · [Code](https://github.com/k-harikumar/PLS-GS) · [Project page](PAGE_LINK)
 -->
+
+### 🔗 Links
